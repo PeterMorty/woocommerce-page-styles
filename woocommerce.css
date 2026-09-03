@@ -560,7 +560,7 @@ body.woocommerce-account .woocommerce form fieldset {
 	padding: 0;
 	border: 0 !important
 }
-body.woocommerce-account .woocommerce form .form-row label:not(.woocommerce-form-login__rememberme) {
+body.woocommerce-account .woocommerce form .form-row label:not(.woocommerce-form__label-for-checkbox) {
 	position: absolute;
 	top: 8px;
 	left: 0;
